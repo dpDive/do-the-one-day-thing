@@ -63,6 +63,8 @@ Compare the original JS file with:
   * then with the `.section3.pathway-change2.js` file
   * then finally with the `.section3.pathway-change3.js` file
 
+Or you can look at [./hint/section3.pathway-changes.md](./hint/section3.pathway-changes.md) for hints.
+
 ### Section4
 Fill in the code
 
